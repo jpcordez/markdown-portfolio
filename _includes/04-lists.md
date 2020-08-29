@@ -1,1 +1,5 @@
-Replace this with a list of your favorite things.
+Things I like:
+- music
+- games
+- manga
+- anime
